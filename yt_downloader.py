@@ -6,7 +6,7 @@ def download(url, path):
         yt = YouTube(url) #create youtube object
 
         stream = yt.streams.get_highest_resolution() 
-
+        print("Downloading...")
         stream.download(output_path=path) #begin download with savepath = userpath from before
         print("Downloaded sucess\n")
     except Exception as e:
