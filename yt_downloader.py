@@ -15,8 +15,5 @@ def download(url, path):
 if __name__ == "__main__":
     user_url = input("Enter Valid Url From Youtube: ")
     print("If you wish to download the video to the downloads folder, enter 1")
-    user_path = input("Enter a path for the video to be downloaded to: ")
-
-    if user_path == '1':
-        user_path = 'C://Users//ousoo//downloads'
+    user_path = 'C://Users//ousoo//desktop//'
     download(user_url, user_path)
