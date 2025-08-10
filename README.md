@@ -7,3 +7,6 @@ A collection of useful tools i have collected and created over time
    No more possible virus risk for me :)
 
    Next step in this project is to get this to a website
+
+# UPDATE 8/9/2025
+hasnt worked in a while, archiving as i am no longer in the need to download as many resources for creating observatory videos because well.. im graduated
